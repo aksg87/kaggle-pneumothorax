@@ -1,5 +1,5 @@
 # pneumothorax-segmentation
-Experimenting with data partitioning for pneumothorax detection using Fast.ai and Kaggle dataset.
+Experimenting with spatial partitioning for pneumothorax detection using Fast.ai and Kaggle dataset.
 
 Some results on positive patches with pneumothorax.
 ![patches](pneumo_patch_results.gif)
