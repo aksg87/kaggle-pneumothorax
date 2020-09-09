@@ -6,7 +6,7 @@ Some results on positive patches with pneumothorax.
 
 #### Note: Combining these results into a single x-ray will lead to issues at the patch edges.
 
-Recently published work may address this type if limitation: https://ai.googleblog.com/2020/02/ultra-high-resolution-image-analysis.html
+Recently published work may address this type of limitation: https://ai.googleblog.com/2020/02/ultra-high-resolution-image-analysis.html
 
 
 #### Note: This repository is currently incomplete. 
